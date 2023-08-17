@@ -10,6 +10,7 @@ Welcome to the Credit Score Classification Project repository! This project aims
 * Visualization_Columns: Charts generated in EDA part.
 * Visualization_Model: Charts generated while model building.
 * README.md: Project overview and usage instructions.
+* Credit_Score.pptx: Powerpoint presentation to describe the project to the stakeholders.
 
 ### Project Process and Steps:
 This project aims to predict credit scores based on a given dataset. The process involves several key steps:
